@@ -76,4 +76,4 @@ See the collection for documentation:
 
 ## Wiki of one complex feature
 - Read the detailed explanation of xyz feature 
-- Wiki link: link here
+- Wiki link: https://github.com/ahsan-javaid/documentation/wiki
