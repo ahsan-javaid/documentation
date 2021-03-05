@@ -69,9 +69,9 @@ See the collection for documentation:
 ## Flow Diagram
 ![Screenshot](docs/Flow-Diagram.png)
 
-## Database Design (NoSql)
-- These are the collections which are linked using mongoose references in models. 
-- Models are defined in src/model folder
+## Database Design
+-  This is relational database design 
+- Models are defined in src/models folder
 ![Screenshot](docs/Database-Diagram.png)
 
 ## Wiki of one complex feature
